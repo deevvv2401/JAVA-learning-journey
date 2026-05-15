@@ -1,3 +1,4 @@
+package Homework_D7_Qts;
 import java.util.*;
 
 public class Q1 {

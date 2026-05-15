@@ -1,3 +1,4 @@
+package Homework_D6_Qts;
 public class Rough {
 
     public static void main(String[] args) {

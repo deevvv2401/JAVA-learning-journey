@@ -1,3 +1,4 @@
+package Homework_D7_Qts;
 // print the table of a given number n.
 
 public class Q2 {

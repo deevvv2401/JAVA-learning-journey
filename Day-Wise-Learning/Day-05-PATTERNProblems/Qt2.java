@@ -1,6 +1,6 @@
 
 
-public class Q2 {
+public class Qt2 {
     public static void main(String[] args) {
         int r = 4;
         int c = 5;

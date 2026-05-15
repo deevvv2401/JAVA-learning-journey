@@ -1,3 +1,4 @@
+package Homework_D4_Qts;
 import java.util.*;
 
 public class Q1_EvenNumbers {

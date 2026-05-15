@@ -8,7 +8,7 @@
 //                 *                    * 
 
 
-public class Q1 {
+public class Butterfly {
     public static void main(String[] args) {
         int n=4;
 

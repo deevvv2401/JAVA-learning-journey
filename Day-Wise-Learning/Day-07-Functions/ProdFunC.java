@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class Q2 {
+public class ProdFunC {
     
     public static int CalculateProduct(int a, int b){
 

@@ -1,3 +1,4 @@
+package Homework_D2_Qts;
 // Make a program that prints the table of a number that is input by the user.
 
 import java.util.*;

@@ -1,3 +1,4 @@
+package Homework_D3_Qts;
 import java.util.*;
 
 public class Q2_MnthForNum {

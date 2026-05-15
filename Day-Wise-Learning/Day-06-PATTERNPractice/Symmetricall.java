@@ -8,7 +8,7 @@
 //                                * 
 
 
-public class Q3 {
+public class Symmetricall {
     public static void main(String[] args) {
         int n=4;
 

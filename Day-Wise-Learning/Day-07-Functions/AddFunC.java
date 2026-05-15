@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Q1 {
+public class AddFunC {
 
     // FunC. to add two numbers ! ! !
 

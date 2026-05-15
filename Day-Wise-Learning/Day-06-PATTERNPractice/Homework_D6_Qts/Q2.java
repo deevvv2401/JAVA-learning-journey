@@ -1,3 +1,4 @@
+package Homework_D6_Qts;
 //                            *  *  *  *  * 
 //                         *           *    
 //                      *           *       

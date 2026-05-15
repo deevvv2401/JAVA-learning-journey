@@ -1,3 +1,4 @@
+package Homework_D5_Qts;
 //          1  
 //        2   2  
 //      3   3   3  
