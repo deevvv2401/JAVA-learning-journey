@@ -3,8 +3,8 @@
 public class CompareString {
     public static void main(String[] args) {
         //Compare - - ->
-        String name1 = "Tony";
-        String name2 = "Tony";
+        // String name1 = "Tony";
+        // String name2 = "Tony";
 
 
         //CASE1: s1>s2 ---> return +ve value (random)
