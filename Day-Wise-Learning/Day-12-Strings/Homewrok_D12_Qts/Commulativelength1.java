@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Commulativelength {
+public class Commulativelength1 {
     // public static void main(String[] args) {
         
     //     Scanner sc = new Scanner(System.in);
